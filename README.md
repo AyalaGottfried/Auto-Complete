@@ -1,5 +1,5 @@
 # Auto-Complete
-Google Project: Search and auto-complete sentences within given input text files, manipulating data with complex data-structures.
+**Google Project:** Search and auto-complete sentences within given input text files, manipulating data with complex data-structures.
 
 Autocomplete, or word completion, is a feature in which an application predicts the rest of a word a user is typing.
 
